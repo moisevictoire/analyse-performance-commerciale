@@ -172,7 +172,7 @@ Ce projet m'a permis de renforcer mes compétences en :
 
 ## 📸 Aperçu
 
-![Aperçu du dashboard Zarigaual]Tableau_Bord.png.
+Tableau_Bord.png.
 
 ---
 
