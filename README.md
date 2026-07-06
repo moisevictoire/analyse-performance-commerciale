@@ -67,7 +67,7 @@ Afin de faciliter les analyses, plusieurs colonnes calculées ont été créées
 - **Mois** : extraction du mois à partir de la colonne `Period` (ex. : `M12-2020` → `12`) grâce aux fonctions de manipulation de texte.
 - **Trimestre** : création d'une colonne calculée à partir du numéro du mois en utilisant la fonction `ENT`.
 - **Catégorie** : création d'une nouvelle colonne à partir de la colonne `Categ` afin de supprimer le préfixe (ex. : `cat_Haut` → `Haut`) à l'aide des fonctions `DROITE` et `NBCAR`.
-- **Produit** : création d'une table de correspondance entre les codes produits et leurs libellés.
+- **Produit** : création d'une colonne produit a partir de la tabke de de correspondance entre les codes produits et leurs libellés.
 - Remplacement des codes produits par leurs noms via la fonction **RECHERCHEV** (ex. : `PP234` → `Jupe`).
 
 Ces transformations ont permis d'obtenir un jeu de données propre, homogène et directement exploitable pour la création des indicateurs de performance et du tableau de bord.
