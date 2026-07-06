@@ -176,22 +176,6 @@ Ce projet m'a permis de renforcer mes compétences en :
 
 ---
 
-## 📁 Structure du projet
-
-```text
-Dashboard-Commercial-Zarigaual/
-│
-├── README.md
-├── Dashboard_Commercial.xlsx
-├── Data/
-│   └── ventes_europe_ouest.xlsx
-├── Images/
-│   ├── dashboard.png
-│   └── statistiques.png
-└── Documentation/
-    └── README.md
-```
-
 ## 👤 Auteur
 
 **Moïse Obiliki**
