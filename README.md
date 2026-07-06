@@ -172,7 +172,7 @@ Ce projet m'a permis de renforcer mes compétences en :
 
 ## 📸 Aperçu
 
-> Ajouter ici une ou plusieurs captures d'écran du tableau de bord.
+> Tableau_Bord.png.
 
 ---
 
