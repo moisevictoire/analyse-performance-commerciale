@@ -171,8 +171,8 @@ Ce projet m'a permis de renforcer mes compétences en :
 ---
 
 ## 📸 Aperçu
+<img src="images/tableau_bord.png" alt="Dashboard Zarigaual" width="700"/>
 
-![Mon Dashboard](tableau_bord.png)
 ---
 
 ## 👤 Auteur
