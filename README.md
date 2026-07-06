@@ -171,13 +171,14 @@ Ce projet m'a permis de renforcer mes compétences en :
 ---
 
 ## 📸 Aperçu
+
 ![Aperçu du dashboard Zarigaual]Tableau_Bord.png.
 
 ---
 
 ## 👤 Auteur
 
-**Moïse Obiliki**
+**Moïse OBILIKI**
 
 Passionné par la Data Analytics, je développe des projets permettant de transformer des données en tableaux de bord interactifs et en indicateurs d'aide à la décision.
 
