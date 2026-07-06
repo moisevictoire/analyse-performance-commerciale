@@ -2,11 +2,11 @@
 
 ## 📌 Contexte
 
-Dans le cadre de ce projet, j'ai conçu un **tableau de bord commercial interactif sous Microsoft Excel** afin de répondre aux besoins du responsable des ventes de l'entreprise fictive **Zarigaual**.
+Dans le cadre de ce projet, j'ai conçu un **tableau de bord commercial interactif sous Microsoft Excel** afin de répondre aux besoins du responsable des ventes de l'entreprise fictive **Zariguaval**.
 
 L'objectif était de transformer des données de ventes brutes en un outil d'aide à la décision permettant de suivre les performances commerciales en Europe de l'Ouest et d'identifier les principales tendances de vente.
 
-Les données utilisées proviennent d'un cas pratique proposé par **OpenClassrooms**.
+Les données utilisées proviennent d'un cas pratique proposé par **les données fictives de l'entreprise**.
 
 
 ---
