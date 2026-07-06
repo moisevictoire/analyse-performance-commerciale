@@ -119,10 +119,14 @@ Le tableau de bord comprend notamment :
 
 ### Fonctions Excel
 
-- RECHERCHEV
+- RECHERCHE V
 - SOMME.SI.ENS
 - NB.SI.ENS
 - SI
+- GAUCHE
+- DROITE
+- ENT
+- NB
 
 ### Analyse de données
 
@@ -171,8 +175,7 @@ Ce projet m'a permis de renforcer mes compétences en :
 ---
 
 ## 📸 Aperçu
-<img src="tableau-bord.png" alt="Dashboard Zarigaual" width="700"/>
----
+assets/Tableau_Bord.png---
 
 ## 👤 Auteur
 
