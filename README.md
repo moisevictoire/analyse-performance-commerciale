@@ -171,8 +171,7 @@ Ce projet m'a permis de renforcer mes compétences en :
 ---
 
 ## 📸 Aperçu
-tableau_Bord.png
-
+![Mon Dashboard](tableau_bord.png)
 ---
 
 ## 👤 Auteur
